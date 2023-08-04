@@ -172,7 +172,7 @@ class FNO3d(nn.Module):
 
 
 # PATH = '../data/cavity.mat'
-PATH = '../data/lid-cavity.mat'
+PATH = '../PINO/data/cavity.mat'
 ntest = 1
 
 modes = 8
